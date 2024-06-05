@@ -4,13 +4,14 @@
     left: 0;
     width: 100%;
     z-index: 10;
-    background-color: var(--white);
+    background-color: var(--black);
   }
   
   .navbar .navbar__content {
     padding: 3rem 4rem 1rem;
     display: flex;
     justify-content: space-between;
+    color: white;
   }
   
   .navbar .navbar__content .navbar__links li {
